@@ -11,7 +11,7 @@
 
 ### Links and Resources
 * [submission PR]()
-* [heroku]()
+* [heroku](https://lab-17-socket-io.herokuapp.com/)
 #### Documentation
 * Jsdoc included inline
 
