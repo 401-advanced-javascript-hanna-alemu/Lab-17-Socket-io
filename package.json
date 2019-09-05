@@ -1,0 +1,28 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "\"lint\": \"eslint \\\"**/*.js\\\"\",  \r    \"start\": \"node index.js\",  \r    \"test\": \"jest --verbose --coverage\",  \r    \"test-watch\": \"jest --watchAll --verbose --coverage\",  \r    \"jsdoc\": \"jsdoc -c ./docs/config/jsdoc.config.json\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "keywords": [],
+  "author": "Vinicio Vladimir Sanchez Trejo <vladimirsan@gmail.com> (http://vladimirsan.com)",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-hanna-alemu/Lab-17-Socket-io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-hanna-alemu/Lab-17-Socket-io/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-hanna-alemu/Lab-17-Socket-io#readme"
+}
